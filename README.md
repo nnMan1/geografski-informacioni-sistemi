@@ -7,4 +7,4 @@
 | Projekat         |    30 | U terminu završnog ispita |
 | Završni (usmeno) |    20 | U terminu završnog ispita |
 | **Ukupno**       | **100** |                         |
-# geografski-informacioni-sistemi
+
