@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1ZYHXnQe6EPo989c813uvQ5PdmcYZS98G3Ps9lhKM
 
 Temu birate tako što upišete ime i prezime i broj indeksa pored teme koju ste odabrali. Jednu temu može da radi samo jedan student. Ne mijenjajte niti brišite tuđe upise. Temu van spiska možete predložiti na dosljakvelibor@gmail.com.
 
-Odbranu seminarskog zakazujete tako što najkasnije nedelju dana prije odbrane pošaljete email na dosljakvelibor@gmail.com sa pdf-om koji sadrži vaš seminarski rad. 
+Odbranu seminarskog zakazujete tako što najkasnije nedelju dana prije odbrane pošaljete pdf dokument koji sadrži vaš seminarski rad na dosljakvelibor@gmail.com. 
 
 
 
